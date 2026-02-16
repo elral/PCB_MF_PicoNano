@@ -8,6 +8,8 @@ It keeps the same small footprint while offering significantly more processing p
 
 This board is optimized especially for **Mobiflight custom devices**, cockpit electronics, displays, and I/O-intensive modules.
 
+![Top View](piconano-top.png)
+
 ---
 
 ## 🚀 Key Advantages over Arduino Nano
@@ -95,7 +97,11 @@ The **PicoNano** brings the Nano format into the modern age:
 
 ---
 
-## 🛠 Coming soon
-- Pinout graphic (PNG + PDF)
-- Wiring diagram image
-- Board render + enclosure STL
+## Additional information
+
+### Bottom View
+![Top View](piconano-bottom.png)
+
+### Schematic
+![Top View](piconano-schematic1.png)
+![Top View](piconano-schematic2.png)
