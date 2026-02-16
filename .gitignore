@@ -1,0 +1,7 @@
+# KiCad auto-generated files
+*.kicad_prl
+*-backups
+*-cache
+*/production
+*/jlcpcb
+*.bak
